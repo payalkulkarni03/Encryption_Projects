@@ -1,2 +1,1 @@
-# Encryption_Projects
-Encryption Algorithms
+A collection of the encryption algorithms
